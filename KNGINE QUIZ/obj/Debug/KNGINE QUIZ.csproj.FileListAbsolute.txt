@@ -1,0 +1,42 @@
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\KNGINE QUIZ.exe.config
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\KNGINE QUIZ.exe
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\KNGINE QUIZ.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.csprojAssemblyReference.cache
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Form1.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Properties.Resources.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.csproj.GenerateResource.cache
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.exe
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\MySql.Data.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Protobuf.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\MySql.Data.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.csproj.CopyComplete
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Backend.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Auth.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Core.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\System.Net.Http.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Auth.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Core.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE QUIZ.csproj.ResolveComReference.cache
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.IPform.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Chooser.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Add_Question.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.TeamA.resources
+C:\Users\DULAJ\Documents\C#_Projects\KNGINE QUIZ\KNGINE QUIZ\obj\Debug\KNGINE_QUIZ.Backend2.resources
